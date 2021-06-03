@@ -1,4 +1,7 @@
 :root {
-    --first-color: blue;
-    --second-color: red;
+    --first-color: #445CFC;
+    --first-alpha-color: #3D86E0;
+    --second-color: #4ECFF7;
+    --second-alpha-color: #3DE0D1;
+    --three-color: #4CFDB1;
 }
